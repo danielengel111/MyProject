@@ -4,5 +4,6 @@ public class MyClass {
         int x = 8;
         int z = 9;
         int bobo = 10;
+        int bozo = 11;
     }
 }
