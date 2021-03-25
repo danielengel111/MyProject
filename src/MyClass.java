@@ -3,5 +3,6 @@ public class MyClass {
         int y = 7;
         int x = 8;
         int z = 9;
+        int bobo = 10;
     }
 }
